@@ -1,0 +1,8 @@
+id: speeds
+arrows:
+  - id: slow
+    next: default/on
+  - id: medium
+    next: default/on
+  - id: fast
+    next: default/on

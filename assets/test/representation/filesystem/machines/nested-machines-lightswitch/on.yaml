@@ -1,0 +1,8 @@
+id: on
+arrows:
+  - id: self
+    next: default/on
+  - id: off
+    next: default/off
+  - id: pattern
+    next: default/pattern

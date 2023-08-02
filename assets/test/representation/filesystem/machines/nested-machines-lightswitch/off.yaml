@@ -1,0 +1,6 @@
+id: off
+arrows:
+  - id: self
+    next: default/off
+  - id: on
+    next: default/on

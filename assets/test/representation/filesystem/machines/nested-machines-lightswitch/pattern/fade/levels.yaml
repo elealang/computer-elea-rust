@@ -1,0 +1,12 @@
+id: levels
+arrows:
+  - id: 20_percent
+    next: default/on
+  - id: 40_percent
+    next: default/on
+  - id: 60_percent
+    next: default/on
+  - id: 80_percent
+    next: default/on
+  - id: 100_percent
+    next: default/on

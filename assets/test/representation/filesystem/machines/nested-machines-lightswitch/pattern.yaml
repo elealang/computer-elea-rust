@@ -1,0 +1,6 @@
+id: pattern
+arrows:
+  - id: fade
+    next: pattern/fade/levels
+  - id: strobe
+    next: pattern/strobe/speeds
